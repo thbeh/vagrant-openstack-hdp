@@ -1,7 +1,7 @@
 # vagrant-openstack-hdp
 
 #…or create a new repository on the command line
-echo "# vagrant-openstack-hdp" >> README.md
+\necho "# vagrant-openstack-hdp" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
